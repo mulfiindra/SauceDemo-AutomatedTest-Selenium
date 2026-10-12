@@ -30,6 +30,7 @@ This project automates three login test scenarios to verify that SauceDemo handl
 SauceDemo-AutomatedTest-Selenium/
 ├── pom.xml
 ├── .gitignore
+├── README.md
 └── src/
     ├── main/
     │   └── java/
